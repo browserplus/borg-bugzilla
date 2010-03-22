@@ -1,0 +1,14 @@
+/.cvsignore/1.1/Mon Feb  1 00:33:38 2010//TBUGZILLA-3_6rc1
+/001compile.t/1.20.2.1/Fri Feb 12 05:33:05 2010//TBUGZILLA-3_6rc1
+/002goodperl.t/1.15/Wed Sep  8 22:46:34 2004//TBUGZILLA-3_6rc1
+/003safesys.t/1.6/Sun Dec  5 14:13:27 2004//TBUGZILLA-3_6rc1
+/004template.t/1.40/Wed Mar  5 17:19:48 2008//TBUGZILLA-3_6rc1
+/005whitespace.t/1.15/Mon Mar  2 21:24:28 2009//TBUGZILLA-3_6rc1
+/006spellcheck.t/1.6/Wed Jul 25 14:47:20 2007//TBUGZILLA-3_6rc1
+/007util.t/1.13/Thu Jul 16 01:30:52 2009//TBUGZILLA-3_6rc1
+/008filter.t/1.32/Wed Nov 25 05:02:56 2009//TBUGZILLA-3_6rc1
+/009bugwords.t/1.8/Wed Feb 25 19:24:46 2009//TBUGZILLA-3_6rc1
+/010dependencies.t/1.1/Tue Sep  5 17:02:45 2006//TBUGZILLA-3_6rc1
+/011pod.t/1.1/Tue Jul 26 14:23:50 2005//TBUGZILLA-3_6rc1
+/012throwables.t/1.6/Fri Sep  4 21:08:52 2009//TBUGZILLA-3_6rc1
+D/Support////

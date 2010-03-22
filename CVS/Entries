@@ -1,0 +1,83 @@
+/.bzrignore/1.1.8.2/Sun Feb  7 23:47:20 2010//TBUGZILLA-3_6rc1
+/.bzrrev/1.5.8.72/Mon Mar  8 07:53:08 2010//TBUGZILLA-3_6rc1
+/.cvsignore/1.8/Fri Oct 19 07:58:48 2007//TBUGZILLA-3_6rc1
+/Bugzilla.pm/1.85/Tue Nov 24 06:09:41 2009//TBUGZILLA-3_6rc1
+/README/1.53/Wed Jul 29 08:18:52 2009//TBUGZILLA-3_6rc1
+/admin.cgi/1.2/Fri Oct 19 06:46:10 2007//TBUGZILLA-3_6rc1
+/attachment.cgi/1.167/Wed Dec 30 14:54:28 2009//TBUGZILLA-3_6rc1
+/buglist.cgi/1.409.2.2/Wed Mar  3 22:01:31 2010//TBUGZILLA-3_6rc1
+/bugzilla.dtd/1.16/Mon Oct 26 16:16:21 2009//TBUGZILLA-3_6rc1
+/chart.cgi/1.32/Sat Oct 24 05:21:06 2009//TBUGZILLA-3_6rc1
+/checksetup.pl/1.565/Tue Nov 24 06:09:41 2009//TBUGZILLA-3_6rc1
+/colchange.cgi/1.71/Tue Nov 24 06:09:41 2009//TBUGZILLA-3_6rc1
+/collectstats.pl/1.71/Sun Sep  6 22:45:51 2009//TBUGZILLA-3_6rc1
+/config.cgi/1.33/Tue Nov 10 16:31:47 2009//TBUGZILLA-3_6rc1
+/createaccount.cgi/1.57/Sun Nov 11 22:03:16 2007//TBUGZILLA-3_6rc1
+/describecomponents.cgi/1.40/Thu May 21 08:43:23 2009//TBUGZILLA-3_6rc1
+/describekeywords.cgi/1.22/Sun Jan 25 12:42:51 2009//TBUGZILLA-3_6rc1
+/duplicates.cgi/1.66/Tue Feb  2 00:02:50 2010//TBUGZILLA-3_6rc1
+/editclassifications.cgi/1.33/Fri Jan  2 13:59:22 2009//TBUGZILLA-3_6rc1
+/editcomponents.cgi/1.88/Sun Jan 31 23:33:30 2010//TBUGZILLA-3_6rc1
+/editfields.cgi/1.12/Thu Jan 15 15:47:36 2009//TBUGZILLA-3_6rc1
+/editflagtypes.cgi/1.57/Mon Nov 23 22:40:54 2009//TBUGZILLA-3_6rc1
+/editgroups.cgi/1.93/Thu Dec 31 12:48:21 2009//TBUGZILLA-3_6rc1
+/editkeywords.cgi/1.48/Mon Nov  9 19:51:58 2009//TBUGZILLA-3_6rc1
+/editmilestones.cgi/1.62/Sun Jan 27 23:14:14 2008//TBUGZILLA-3_6rc1
+/editparams.cgi/1.51.2.1/Wed Feb 10 04:17:28 2010//TBUGZILLA-3_6rc1
+/editproducts.cgi/1.154/Thu Dec 17 23:31:52 2009//TBUGZILLA-3_6rc1
+/editsettings.cgi/1.11/Sun Jan 27 23:14:14 2008//TBUGZILLA-3_6rc1
+/editusers.cgi/1.155/Wed Dec 30 14:28:38 2009//TBUGZILLA-3_6rc1
+/editvalues.cgi/1.40/Fri Jul 17 22:40:13 2009//TBUGZILLA-3_6rc1
+/editversions.cgi/1.59/Fri Apr 10 09:36:43 2009//TBUGZILLA-3_6rc1
+/editwhines.cgi/1.27/Sun Jan 31 23:33:30 2010//TBUGZILLA-3_6rc1
+/editworkflow.cgi/1.6/Wed Jul  2 19:10:17 2008//TBUGZILLA-3_6rc1
+/email_in.pl/1.31.2.2/Sat Feb 20 20:19:50 2010//TBUGZILLA-3_6rc1
+/enter_bug.cgi/1.176.2.1/Wed Feb 17 22:19:06 2010//TBUGZILLA-3_6rc1
+/importxml.pl/1.95/Thu Dec 17 23:31:53 2009//TBUGZILLA-3_6rc1
+/index.cgi/1.29/Fri Oct  9 04:31:09 2009//TBUGZILLA-3_6rc1
+/install-module.pl/1.5/Wed Sep 16 09:43:23 2009//TBUGZILLA-3_6rc1
+/jobqueue.pl/1.4/Fri Sep  4 21:20:16 2009//TBUGZILLA-3_6rc1
+/jsonrpc.cgi/1.4/Tue Nov 10 21:19:46 2009//TBUGZILLA-3_6rc1
+/long_list.cgi/1.48/Fri Oct 19 06:46:11 2007//TBUGZILLA-3_6rc1
+/migrate.pl/1.1/Sat Oct 24 05:30:15 2009//TBUGZILLA-3_6rc1
+/mod_perl.pl/1.15/Sun Jan 31 17:46:15 2010//TBUGZILLA-3_6rc1
+/page.cgi/1.22.2.2/Tue Feb  9 00:02:57 2010//TBUGZILLA-3_6rc1
+/post_bug.cgi/1.209/Sun Jan 31 23:33:30 2010//TBUGZILLA-3_6rc1
+/process_bug.cgi/1.428/Mon Feb  1 00:19:54 2010//TBUGZILLA-3_6rc1
+/query.cgi/1.190/Sun Jan 31 17:52:38 2010//TBUGZILLA-3_6rc1
+/quips.cgi/1.39/Wed Nov  5 18:38:49 2008//TBUGZILLA-3_6rc1
+/relogin.cgi/1.43/Wed Apr 15 17:52:46 2009//TBUGZILLA-3_6rc1
+/report.cgi/1.47.2.1/Thu Feb 18 19:33:13 2010//TBUGZILLA-3_6rc1
+/reports.cgi/1.95/Sat Oct 24 05:21:06 2009//TBUGZILLA-3_6rc1
+/request.cgi/1.51/Sun Jan 31 23:33:31 2010//TBUGZILLA-3_6rc1
+/robots.txt/1.2/Wed Apr 24 18:11:00 2002//TBUGZILLA-3_6rc1
+/runtests.pl/1.5/Fri Oct 19 06:46:11 2007//TBUGZILLA-3_6rc1
+/sanitycheck.cgi/1.148/Thu Dec 17 23:31:53 2009//TBUGZILLA-3_6rc1
+/sanitycheck.pl/1.4/Tue Dec 16 21:16:29 2008//TBUGZILLA-3_6rc1
+/search_plugin.cgi/1.4/Tue Dec 16 22:39:41 2008//TBUGZILLA-3_6rc1
+/show_activity.cgi/1.26/Sun Jan 25 12:42:52 2009//TBUGZILLA-3_6rc1
+/show_bug.cgi/1.62/Tue Nov 10 16:31:48 2009//TBUGZILLA-3_6rc1
+/showattachment.cgi/1.16/Fri Oct 19 06:46:11 2007//TBUGZILLA-3_6rc1
+/showdependencygraph.cgi/1.69.2.1/Mon Mar  8 01:05:21 2010//TBUGZILLA-3_6rc1
+/showdependencytree.cgi/1.53/Sun Jun 29 21:57:54 2008//TBUGZILLA-3_6rc1
+/sidebar.cgi/1.19/Fri Oct 19 06:46:11 2007//TBUGZILLA-3_6rc1
+/summarize_time.cgi/1.26/Tue Nov 10 16:31:48 2009//TBUGZILLA-3_6rc1
+/testagent.cgi/1.3/Sun Feb 11 00:12:24 2007//TBUGZILLA-3_6rc1
+/testserver.pl/1.22/Fri Sep  4 21:08:05 2009//TBUGZILLA-3_6rc1
+/token.cgi/1.65/Fri Oct  9 04:31:09 2009//TBUGZILLA-3_6rc1
+/userprefs.cgi/1.127/Sun Jan 31 23:33:31 2010//TBUGZILLA-3_6rc1
+/votes.cgi/1.58/Wed Jul  1 11:02:21 2009//TBUGZILLA-3_6rc1
+/whine.pl/1.41/Mon Dec 28 00:58:47 2009//TBUGZILLA-3_6rc1
+/whineatnews.pl/1.31/Wed Apr  2 17:42:26 2008//TBUGZILLA-3_6rc1
+/xml.cgi/1.14/Fri Oct 19 06:46:11 2007//TBUGZILLA-3_6rc1
+/xmlrpc.cgi/1.14/Tue Nov 10 21:19:46 2009//TBUGZILLA-3_6rc1
+D/Bugzilla////
+D/contrib////
+D/docs////
+D/extensions////
+D/images////
+D/js////
+D/lib////
+D/skins////
+D/t////
+D/template////

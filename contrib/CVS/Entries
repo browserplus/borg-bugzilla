@@ -1,0 +1,19 @@
+/.cvsignore/1.1/Mon Feb  1 00:33:37 2010//TBUGZILLA-3_6rc1
+/README/1.12/Tue Oct 16 10:13:54 2007//TBUGZILLA-3_6rc1
+/bugzilla-queue/1.1/Fri Sep  4 21:20:41 2009//TBUGZILLA-3_6rc1
+/bugzilla_ldapsync.rb/1.2.20.1/Mon Mar  8 02:47:38 2010//TBUGZILLA-3_6rc1
+/bz_webservice_demo.pl/1.14/Mon May 19 18:38:26 2008//TBUGZILLA-3_6rc1
+/bzdbcopy.pl/1.9/Sat Oct 24 05:30:19 2009//TBUGZILLA-3_6rc1
+/console.pl/1.1/Sun Jan 31 17:49:13 2010//TBUGZILLA-3_6rc1
+/cvs-update.pl/1.1/Tue Nov 11 05:58:52 2003//TBUGZILLA-3_6rc1
+/extension-convert.pl/1.2/Wed Nov 25 03:37:09 2009//TBUGZILLA-3_6rc1
+/jb2bz.py/1.5/Fri Aug 26 23:11:32 2005//TBUGZILLA-3_6rc1
+/merge-users.pl/1.8/Tue Mar 11 15:50:04 2008//TBUGZILLA-3_6rc1
+/mysqld-watcher.pl/1.5/Thu Mar 27 00:06:53 2003//TBUGZILLA-3_6rc1
+/recode.pl/1.6/Fri Feb 20 21:54:16 2009//TBUGZILLA-3_6rc1
+/sendbugmail.pl/1.8.6.1/Mon Mar  8 02:47:38 2010//TBUGZILLA-3_6rc1
+/sendunsentbugmail.pl/1.10/Fri Oct 19 06:46:17 2007//TBUGZILLA-3_6rc1
+/syncLDAP.pl/1.14/Mon Jul  7 09:01:51 2008//TBUGZILLA-3_6rc1
+/yp_nomail.sh/1.1.38.1/Mon Mar  8 02:47:38 2010//TBUGZILLA-3_6rc1
+D/bugzilla-submit////
+D/cmdline////
