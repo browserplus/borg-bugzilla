@@ -1,0 +1,11 @@
+# .htaccess generated at install (./checkconfig.pl) time
+.htaccess
+# site specific data files
+/data
+# locally installed permodules
+/lib
+# site specific configuration
+/localconfig
+# emacs temp files
+*~
+
