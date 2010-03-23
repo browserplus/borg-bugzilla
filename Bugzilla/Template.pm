@@ -56,6 +56,7 @@ use File::Path qw(rmtree mkpath);
 use File::Spec;
 use IO::Dir;
 use Scalar::Util qw(blessed);
+use Digest::MD5  qw(md5_hex);
 
 use base qw(Template);
 
@@ -518,6 +519,11 @@ sub create {
                 my ($data) = @_;
                 return encode_base64($data);
             },
+
+			md5 => sub {
+				my ($data) = @_;
+				return md5_hex($data);
+			},
             
             # HTML collapses newlines in element attributes to a single space,
             # so form elements which may have whitespace (ie comments) need
